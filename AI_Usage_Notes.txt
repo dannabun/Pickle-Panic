@@ -1,0 +1,5 @@
+AI Usage Notes
+
+I used AI as a programming and troubleshooting assistant during development. It helped me understand Unity setup steps, organize scripts, fix compiler errors, connect UI objects, implement the score and life systems, and add special ball behavior.
+
+I tested the code in Unity and made the final decisions about the game’s appearance, controls, difficulty, scoring, assets, sounds, and gameplay behavior.
