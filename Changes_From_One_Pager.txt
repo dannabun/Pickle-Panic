@@ -1,0 +1,19 @@
+Pickle Panic (changes from one-pager)
+
+The main idea of Pickle Panic stayed the same: the player controls a paddle, returns incoming pickleballs, earns points, and tries to survive with three lives. I made several changes while implementing the game.
+
+1. The court was changed from a traditional top-down view into a vertical player-perspective view. The paddle remains at the bottom while balls enter from the top.
+
+2. I did not include a visible NPC opponent. Instead, balls are automatically spawned from random horizontal positions to keep the game focused on quick reaction-based gameplay.
+
+3. The player character was simplified into a paddle so the game could focus more on timing, movement, and returning balls.
+
+4. The game became more arcade-style and less realistic. The balls move vertically toward the player instead of following a full pickleball rally across the court.
+
+5. Fireballs move faster and give bonus points. Bomb balls remove one life if the player hits them, but they are harmless if the player allows them to pass.
+
+6. A level system was added. Ball speed gradually increases as the player’s score increases. A level-up sound plays every 1,000 points.
+
+7. Sound effects were added for normal pickleball hits, fireball hits, level-ups, losing a life, and game over. 
+
+8. The original simple ball shapes were replaced with visual images for the regular pickleball, fireball, and bomb.
